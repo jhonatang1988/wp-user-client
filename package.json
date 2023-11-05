@@ -1,8 +1,8 @@
 {
-  "name": "wp-user-client",
+  "name": "wp-user-client2",
   "version": "1.1.1",
   "description": "",
-  "main": "index.js",
+  "main": "lib/src/index.js",
   "scripts": {
     "test": "npm run build && jest",
     "build": "tsc",
