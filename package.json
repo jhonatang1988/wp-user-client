@@ -10,7 +10,7 @@
   },
   "author": "",
   "license": "ISC",
-  "repository": "git://github.com/your-org/your-repo-name.git",
+  "repository": "git@github.com:jhonatang1988/wp-user-client.git",
   "dependencies": {
     "jsonwebtoken": "^9.0.2",
     "supertest": "^6.3.3"
