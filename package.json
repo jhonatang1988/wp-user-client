@@ -3,9 +3,10 @@
   "version": "1.1.4",
   "description": "",
   "main": "lib/index.js",
+  "type": "module",
   "scripts": {
     "test": "npm run build && jest",
-    "build": "tsc",
+    "build": "tsc --declaration",
     "start": "npm run build && node lib/index.js"
   },
   "author": "",
